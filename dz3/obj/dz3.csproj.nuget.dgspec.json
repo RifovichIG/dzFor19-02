@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\1_1\\1_1.csproj": {}
+    "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\dz3\\dz3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\1_1\\1_1.csproj": {
+    "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\dz3\\dz3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\1_1\\1_1.csproj",
-        "projectName": "1_1",
-        "projectPath": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\1_1\\1_1.csproj",
+        "projectUniqueName": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\dz3\\dz3.csproj",
+        "projectName": "dz3",
+        "projectPath": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\dz3\\dz3.csproj",
         "packagesPath": "C:\\Users\\Кампуцкер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\1_1\\obj\\",
+        "outputPath": "C:\\Users\\Кампуцкер\\Обучение\\geek breins\\LEKCIA 3\\dz3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кампуцкер\\AppData\\Roaming\\NuGet\\NuGet.Config"
